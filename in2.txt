@@ -1,0 +1,12 @@
+Thiago,thiago@gmail.com,1500.00
+Maria Helena,mariahelena@gmail.com,2000.00
+Cristiane,cristianegmail.com,1800.00
+Joao,joao@gmail.com,1700.00
+Pedro,pedro@gmail.com,2100.00
+Isabel,isabel@gmail.com,1900.00
+Anna,anna@gmail.com,1750.00
+Luzia,luzia@gmail.com,1890.00
+Edinho,edinho@gmail.com,1930.00
+Anildo,anildo@gmail.com,1300.00
+Marcos,marcos@gmail.com,1910.00
+Marcia,marcia@gmail.com,1200.00
